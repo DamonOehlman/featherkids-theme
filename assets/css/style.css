@@ -110,6 +110,10 @@ img {
   font-family: 'Amatic SC', 'Merriweather', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Nimbus L', sans-serif, cursive;
   text-align: center;
 }
+
+#site-head img {
+  display: inline;
+}
 /**
  * Articles
  */
