@@ -542,6 +542,17 @@ a.archive-link {
   position: relative;
   top: -1px;
 }
+
+.logo {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.logo img {
+  display: inline;
+  height: 75px;
+}
+
 /**
  * Comments
  */
